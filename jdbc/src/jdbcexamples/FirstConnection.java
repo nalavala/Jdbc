@@ -34,8 +34,7 @@ public class FirstConnection {
         System.out.println(dmd.getURL());
         System.out.println(dmd.getUserName());
         
-        String table[]={"TABLE"};  
-        ResultSet rs=dmd.getTables(null,null,null,table); 
+         
         
          
         
